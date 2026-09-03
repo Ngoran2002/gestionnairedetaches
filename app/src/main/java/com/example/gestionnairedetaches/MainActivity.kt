@@ -60,7 +60,6 @@ fun EcranTachesTerminees(modifier: Modifier = Modifier) {
         )
     }
 }
-
 @Preview(showBackground = true)
 @Composable
 fun ApercuEcranTachesTerminees() {
